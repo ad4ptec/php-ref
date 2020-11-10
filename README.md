@@ -4,7 +4,7 @@ REF, or `r()` is a nicer alternative to PHP's [`print_r`](http://php.net/manual/
 
 ## Requirements ##
 
-- (server) PHP 5.3+ (5.4+  displays additional info)
+- (server) PHP 7.1+
 - (client) Any browser, except IE 8 and lower of course
 
 ## Installation using Composer
