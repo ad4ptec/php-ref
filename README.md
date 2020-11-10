@@ -14,7 +14,7 @@ Add REF to your `composer.json`:
 ```js
 {
     "require": {
-        "digitalnature/php-ref": "dev-master"
+        "ryphoe/php-ref": "dev-master"
     }
 }
 ```
@@ -22,10 +22,10 @@ Add REF to your `composer.json`:
 Now tell composer to download the bundle by running:
 
 ``` bash
-$ php composer.phar update digitalnature/php-ref
+$ php composer.phar update ryphoe/php-ref
 ```
 
-Composer will install the bundle to the directory `vendor/digitalnature`.
+Composer will install the bundle to the directory `vendor/ryphoe`.
 
 ## Usage ##
 
