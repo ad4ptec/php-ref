@@ -1,6 +1,6 @@
 {
     "name": "ryphoe/php-ref",
-    "description": "A nicer print_r/var_dump alternative for PHP 5.3+",
+    "description": "A nicer print_r/var_dump alternative for PHP >=7.1.0",
     "keywords": ["debug","var_dump"],
     "homepage": "https://github.com/ryphoe/php-ref",   
     "license": "MIT",
