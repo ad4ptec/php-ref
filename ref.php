@@ -2009,7 +2009,7 @@ class ref{
             $this->fmt->endContain();
             $this->fmt->sep(' ');
           
-          }elseif($parameter->isArray()){
+          }elseif($parameter->getType()){
             $this->fmt->text('hint', 'array');
             $this->fmt->sep(' ');            
 
